@@ -1,0 +1,16 @@
+C:\Users\ACER\Desktop\CODE_SUPPORT_PROJECT\SCAN_QR\bin\Debug\SCAN_QR.exe.config
+C:\Users\ACER\Desktop\CODE_SUPPORT_PROJECT\SCAN_QR\bin\Debug\SCAN_QR.exe
+C:\Users\ACER\Desktop\CODE_SUPPORT_PROJECT\SCAN_QR\bin\Debug\SCAN_QR.pdb
+C:\Users\ACER\Desktop\CODE_SUPPORT_PROJECT\SCAN_QR\bin\Debug\zxing.dll
+C:\Users\ACER\Desktop\CODE_SUPPORT_PROJECT\SCAN_QR\bin\Debug\zxing.presentation.dll
+C:\Users\ACER\Desktop\CODE_SUPPORT_PROJECT\SCAN_QR\bin\Debug\zxing.xml
+C:\Users\ACER\Desktop\CODE_SUPPORT_PROJECT\SCAN_QR\bin\Debug\zxing.presentation.xml
+C:\Users\ACER\Desktop\CODE_SUPPORT_PROJECT\SCAN_QR\obj\Debug\SCAN_QR.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\CODE_SUPPORT_PROJECT\SCAN_QR\obj\Debug\SCAN_QR.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Desktop\CODE_SUPPORT_PROJECT\SCAN_QR\obj\Debug\SCAN_QR.FormScanQR.resources
+C:\Users\ACER\Desktop\CODE_SUPPORT_PROJECT\SCAN_QR\obj\Debug\SCAN_QR.Properties.Resources.resources
+C:\Users\ACER\Desktop\CODE_SUPPORT_PROJECT\SCAN_QR\obj\Debug\SCAN_QR.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\CODE_SUPPORT_PROJECT\SCAN_QR\obj\Debug\SCAN_QR.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\CODE_SUPPORT_PROJECT\SCAN_QR\obj\Debug\SCAN_QR.csproj.CopyComplete
+C:\Users\ACER\Desktop\CODE_SUPPORT_PROJECT\SCAN_QR\obj\Debug\SCAN_QR.exe
+C:\Users\ACER\Desktop\CODE_SUPPORT_PROJECT\SCAN_QR\obj\Debug\SCAN_QR.pdb
